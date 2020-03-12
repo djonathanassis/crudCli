@@ -1,0 +1,22 @@
+{
+  "name": "djonathanassis/crudCli",
+  "description": "CRUD de Clientes.",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Djonathan assis Oliveira",
+      "email": "djonathanassis@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "config": {
+    "vendor-dir": "vendor"
+  },
+  "autoload": {
+    "psr-4": {
+      "Source\\": "source/"
+    }
+  },
+  "require": {}
+}
